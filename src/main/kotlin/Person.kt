@@ -29,7 +29,6 @@ fun main() {
 
     val sd = Person(1, "hello", "vicky", "dinda", GregorianCalendar(1977, 4, 12))
     println("$sd age is ${sd.age}")
-    println("fasas")
 
 }
 
